@@ -90,3 +90,13 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.footer {
+  background: #eee;
+  margin-top: 20px;
+  padding: 20px 0;
+}
+
+.github {
+  text-align: center;
+}
